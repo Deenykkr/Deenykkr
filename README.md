@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deenykkr
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
+- 👀 I’m interested in data analytics 
+- 🌱 I’m currently learning data analytics 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me @zahraddeenabdulsalam@gmail.com
 
